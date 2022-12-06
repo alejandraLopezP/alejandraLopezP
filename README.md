@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @alejandraLopezP AWS Certificated (Cloud Practitioner)
-- 👀 I’m interested in Cloud Computing and Virtualization
-- 🌱 I’m currently learning CI/CD in Mölndal-Sweden
-- 💞️ I’m looking to collaborate on some interesting project.
+- 👀 I’m interested in Cloud Computing AWS, Kubernetes,CI/CD
+- 🌱 I’m currently work as a IT consultant in Linköping-Sweden
 - 📫 How to reach me on Linkendin: linkedin.com/in/alejandra-lopez-pineda-89931a167
 
 <!---
